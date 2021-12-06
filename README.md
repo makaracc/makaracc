@@ -1,15 +1,13 @@
   # About Me
-  
-<div style="text-align: left;">
-<img src="https://avatars.githubusercontent.com/u/60917575?v=4" alt="javascript" width="100" height="100" style="border-radius: 50%; margin: 20px 30px 30px 0" align="left"/>
-<ul >
-<li> 😀✌️ Hi, I’m @makaracc </li>
-<li> 💻📚 I’m interested in learning new skills. </li>
-<li> 🐳 I’m currently learning Docker. </li>
-<li> 🥷 I am on a 30 days Project Challenge. </li>
-<li> 🤔 Let's see how many small projects (or none 😵) I could create at the end of the Challenge. </li>
-</ul>
-</div>
+ 
+ <img src="https://cdn.pixabay.com/photo/2016/07/30/19/47/banner-1557834_1280.jpg" alt="header" />
+
+
+- 😀✌️ Hi, I’m @makaracc
+- 💻📚 I’m interested in learning new skills. 
+-  🐳 I’m currently learning Docker. 
+- 🥷 I am on a 30 days Project Challenge. 
+- 🤔 Let's see how many small projects (or none 😵) I could create at the end of the Challenge.
 
 ---
 ### My Stats
