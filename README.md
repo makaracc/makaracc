@@ -1,9 +1,15 @@
   # About Me
-- 😀✌️ Hi, I’m @makaracc
-- 💻📚 I’m interested in learning new skills.
-- 🐳 I’m currently learning Docker.
-- 🥷 I am on a 30 days Project Challenge.
-- 🤔 Let's see how many small projects (or none 😵) I could create at the end of the Challenge.
+  
+<div style="text-align: left;">
+<img src="https://avatars.githubusercontent.com/u/60917575?v=4" alt="javascript" width="100" height="100" style="border-radius: 50%; margin: 20px 30px 30px 0" align="left"/>
+<ul >
+<li> 😀✌️ Hi, I’m @makaracc </li>
+<li> 💻📚 I’m interested in learning new skills. </li>
+<li> 🐳 I’m currently learning Docker. </li>
+<li> 🥷 I am on a 30 days Project Challenge. </li>
+<li> 🤔 Let's see how many small projects (or none 😵) I could create at the end of the Challenge. </li>
+</ul>
+</div>
 
 ---
 ### My Stats
@@ -23,8 +29,8 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  </p>
