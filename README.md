@@ -5,9 +5,7 @@
 
 - 😀✌️ Hi, I’m @makaracc
 - 💻📚 I’m interested in learning new skills. 
--  🐳 I’m currently learning Docker. 
-- 🥷 I am on a 30 days Project Challenge. 
-- 🤔 Let's see how many small projects (or none 😵) I could create at the end of the Challenge.
+- I’m currently learning Next.JS. 
 
 ---
 ### My Stats
