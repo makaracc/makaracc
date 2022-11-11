@@ -5,7 +5,7 @@
 
 - 😀✌️ Hi, I’m @makaracc
 - 💻📚 I’m interested in learning new skills. 
-- I’m currently learning Next.JS. 
+- I’m currently learning Gin <img src="https://user-images.githubusercontent.com/60917575/201261630-a0c64e40-972b-4373-9af3-157c56cbe899.png" alt="go=gin" width="40" height="40"/>. 
 
 ---
 ### My Stats
