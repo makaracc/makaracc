@@ -11,6 +11,9 @@
 ### My Stats
 ![Makara's Github Stats](https://github-readme-stats.vercel.app/api?username=makaracc&show_icons=true&theme=radical)
 
+
+[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=makaracc&layout=compact&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Languages & Tools
